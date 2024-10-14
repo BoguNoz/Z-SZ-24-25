@@ -1,0 +1,23 @@
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\bin\Debug\Most.exe.config
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\bin\Debug\Most.exe
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\bin\Debug\Most.pdb
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\obj\Debug\Most.csprojResolveAssemblyReference.cache
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\obj\Debug\Most.exe
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Most\Most\obj\Debug\Most.pdb
+t:\Wydawnictwa\_Helion_Wzorce projektowe\Most_0\Most\bin\Debug\Most.exe.config
+t:\Wydawnictwa\_Helion_Wzorce projektowe\Most_0\Most\obj\Debug\Most.exe
+t:\Wydawnictwa\_Helion_Wzorce projektowe\Most_0\Most\obj\Debug\Most.pdb
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\bin\Debug\Most.exe.config
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\bin\Debug\Most.exe
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\bin\Debug\Most.pdb
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\obj\Debug\Most.csprojAssemblyReference.cache
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\obj\Debug\Most.csproj.CoreCompileInputs.cache
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\obj\Debug\Most.exe
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Most_0\Most\obj\Debug\Most.pdb
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\bin\Debug\Most.exe.config
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\bin\Debug\Most.exe
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\bin\Debug\Most.pdb
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\obj\Debug\Most.csproj.AssemblyReference.cache
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\obj\Debug\Most.csproj.CoreCompileInputs.cache
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\obj\Debug\Most.exe
+C:\Users\pk\Desktop\IZNOPROG\Most_0\Most\obj\Debug\Most.pdb

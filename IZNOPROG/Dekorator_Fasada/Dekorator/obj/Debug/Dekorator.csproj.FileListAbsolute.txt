@@ -1,0 +1,15 @@
+C:\Users\jacek\Documents\Visual Studio 2015\Projects\Helion_Wzorce projektowe\Dekorator\Dekorator\bin\Debug\Dekorator.exe.config
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\bin\Debug\Dekorator.exe.config
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\bin\Debug\Dekorator.exe
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\bin\Debug\Dekorator.pdb
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\obj\Debug\Dekorator.csprojAssemblyReference.cache
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\obj\Debug\Dekorator.csproj.CoreCompileInputs.cache
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\obj\Debug\Dekorator.exe
+t:\Wyklady\Wzorce projektowe\Wersja 2 (C#)\0\Dekorator_0\Dekorator\obj\Debug\Dekorator.pdb
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\bin\Debug\Dekorator.exe.config
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\bin\Debug\Dekorator.exe
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\bin\Debug\Dekorator.pdb
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\obj\Debug\Dekorator.csproj.AssemblyReference.cache
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\obj\Debug\Dekorator.csproj.CoreCompileInputs.cache
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\obj\Debug\Dekorator.exe
+C:\Users\pk\Desktop\Dekorator_0\Dekorator\obj\Debug\Dekorator.pdb
