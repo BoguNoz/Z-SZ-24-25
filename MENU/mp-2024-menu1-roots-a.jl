@@ -6,19 +6,19 @@ function bisection(f,a,b,maxiter,err)
 # delta - dopuszczalny bª¡d dªugo±ci zakresu
 # err - dopuszczalny bª¡d warto±ci funkcji
 
-    if (f(a) * f(b) >= 0) 
+    if (sign(f(a)) != sign(f(b))) 
         println("Brak miejsc zerowych w podanym przedziale") 
         return 
     end
 
     for i in 1:maxiter
-        c = (a + b)/2
-        if(f(c) < err)
+        c = a - (a/2) + (b/2)
+        if(abs(f(c)) < err)
             println("Nasze miejsce zerowe to: ", c)
             return;
         end
 
-        if(f(a) * f(c) < 0)
+        if(sign(f(a)) == sign(f(c)))
             b = c 
         else
             a = c
